@@ -1,0 +1,26 @@
+version: "3.7"
+
+services:
+  users:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 80
+    container_name: users
+    hostname: users
+    environment:
+      CONTRIB_FASTAPI_APP: ${CONTRIB_FASTAPI_APP}
+      CONTRIB_LOG_PATH: ${CONTRIB_LOG_PATH}
+      CONTRIB_LOG_LEVEL: ${CONTRIB_LOG_LEVEL}
+      CONTRIB_MONGODB_DSN: ${CONTRIB_MONGODB_DSN}
+    volumes:
+      - ./app:/app/app
+      - ./log:/var/log
+    networks:
+      backend: {}
+    restart: on-failure
+
+networks:
+  backend:
+    external:
+      name: users-backend
