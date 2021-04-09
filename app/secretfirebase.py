@@ -1,12 +1,2 @@
-firebaseConfig = {
-                    "type": "service_account",
-                    "project_id": "tests-d9340",
-                    "private_key_id": "a87e65d382b5f34c2eb7870708e2387c06c0a9e1",
-                    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0s60eW6KDkluq\nD3X2a163EWrkhIk5nWqJTMdO57vdlxYaEnOSWgpwIarLsK4+W6E5pdBNr035aFZ1\nqQPo3z2V+uPxQgldRij01/Dic858eRnSQ3OXS18Sy3XES7comdkRTAms3YLF+mwZ\nRU86KdooQ/w99mhfvh2h6Fnq9ia3zhC7evF+5ZdPtj7sBbjaucXsmGbz7WF4PI7I\nTp9mB9fZ4T+jl8RUOm4jLjo8KuWS3J/Uv+WQQ/NAihMIBrJYDB5GTlbCSjk9PWVy\n6uQs2GHfsbS9N61Om2kcR/mefpOjkDUUFrjHr3BSFEWhI7Gk1h3ZHJQlAlMaZahg\nRkAlGgMTAgMBAAECggEARelUG7AxRn08CKYVqgJtcR+EfygF3WwZWUiCvfTrGrbH\nHswvuZoreqmT5l2TdF3IGUEdP8kIvmtPNBNxh0nDjoC0atV1QQiRdPUM5dgPNdo2\nksJ0+L546JEeHZV7pfIr6MTF44MKAuW5p+dIWUTy+ewfratlQ1GPLmJyU3TrkuW2\nmEgC/PIVguyX1YGicR3EfnVnogLQOmxmhm/uUBkMPLmZ7w5XOoxb58RJaVO8IhiC\nc29nx9K75pOt3jCeE6itW+ZPW0EjlzWnJEqOpTd/QGtd6WVEA1nEkm5ON8wxnFX5\nvEmtCmS2zyCuwEPJNPbCyulyYMBE4kLTC6yreYpttQKBgQD+Au+B4Gp+w0ctN6lQ\nrTnlVInoLV5SVJpPc1aScf/fs+//9UEpYeN8EZYw8EROvGGPx3mO/EWHnr6ASQCd\nngaeI1rfXJBWtG/IP5MlnVkjyNK7TpEb0P/YwkUhO6RgXsPjnCgtqpj06EHawKfh\n8Oi94pW3a6ah6FKP3ZpgHx0QBQKBgQC2HdIkxQXyjPKeM0xzNzSC7AzB+ScO9xT9\nIE+8TXylNAsuCTF7nQ3g0VVOpdAhTpdob8G8DMmQOS9wBAsH0179c99JPasn4ND7\nk9ZdRMG86VMmjjm27+gQtzE6DEBJQ3Wf4TaVSkWVvcyQEpoYin8zNXXh02fNLXQQ\nVRQrcQvqNwKBgQCsgJvdDOXl3oJI8AMZWfr2hln9hkoHCZOeH0sMu0S0zENSBWHS\nU7skt+DSrWkGO6LZ/PLNqv8hIipnfqxfXkFKReJhzD/t0i4TxTEOG3S8+5Y5RBsB\n1AbcUtqVviZcmB7aRWN31+J2eAC5KZsZsvysb+OTJBWO4PKo5yr+2kJnbQKBgAWI\nXGT/k1GuFITX3B+38qFzmGOgNR6QRRP3klSPKhU+woQwhU9TEyPcWDIeeXc5kwH6\nOzGCVfFKu3U0uj0Pn9glWAg6lmOMweySrjWBLD2X/Q2zzm8PVMaFOjqgOqe/I+iq\nh+T7L6f/7yIFXqcWNg0RN7aXnJSwJ9GDNCypr4n7AoGABKSJnFw/4MX3aWQH3YwC\nSq5W+9HzCKw9TNX3cYg6HuptxsKFZ24JNAnSZV6iv7LEgqJHMv7u9zqdAoJPNKRL\nmy613BazTKBqsnBu9B23sqiKjOHVH8PDySu9zOqMY4MZyn0NRwo1j+ixJpINw/9W\nWuYLLjLWVGHJP33UYo4NAGE=\n-----END PRIVATE KEY-----\n",
-                    "client_email": "firebase-adminsdk-3cnut@tests-d9340.iam.gserviceaccount.com",
-                    "client_id": "110447710110905599328",
-                    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-                    "token_uri": "https://oauth2.googleapis.com/token",
-                    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-                    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3cnut%40tests-d9340.iam.gserviceaccount.com"
-                    }
+
+             
